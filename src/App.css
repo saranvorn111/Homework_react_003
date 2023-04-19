@@ -6,6 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+h1{
+  text-align:center;
+  padding-bottom: 20px;
+  text-decoration: underline;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
